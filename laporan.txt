@@ -1,0 +1,3 @@
+No Parkir   No Polisi    Nama   Jenis Kendaraan       Masuk 
+PRK001      G 190 LO     Pam       Roda 2        2017-09-05 14:50:34.0          
+PRK002      B 123 CB     ido       Roda 4        2018-06-06 14:19:39.0          

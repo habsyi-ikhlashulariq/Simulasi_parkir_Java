@@ -1,0 +1,7 @@
+#Thu May 11 10:01:26 ICT 2017
+DBDriver=com.mysql.jdbc.Driver
+DBUsername=root
+DBHost=Localhost
+DBPassword=
+DBPort=3306
+DBDatabase=parkir1db

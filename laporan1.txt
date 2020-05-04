@@ -1,0 +1,6 @@
+No Parkir   No Polisi    Nama   Jenis Kendaraan        Masuk                  Keluar          Lama
+PRK001      K 102 YT     Pam        Roda 2      2017-06-11 14:49:25.0  2017-06-21 22:00:12.0  247
+PRK002      G 1G0 LO     Kuat       Roda 3      2017-06-11 14:51:46.0  2017-06-21 22:08:23.0  247
+PRK004      J U22 NI     Kita       Roda 2      2017-06-21 01:14:28.0  2017-06-22 14:01:39.0  36
+PRK005      G 100 TY     nopa       Roda 3      2017-06-21 21:57:06.0  2017-06-27 06:07:50.0  128
+PRK006      G 127 UI     ko         Roda 2      2017-06-27 00:56:33.0  2017-06-27 06:08:42.0  5
